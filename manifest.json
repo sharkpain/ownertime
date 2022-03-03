@@ -1,0 +1,10 @@
+{
+    "name": "ownertime",
+    "version": "1.0.0",
+    "author": "Skelly",
+    "original_pain_version": "1.0.0",
+    "min_pain_version": "0.0.1",
+    "entrypoints": {
+        "ownertime": "src/index.js"
+    }
+}
